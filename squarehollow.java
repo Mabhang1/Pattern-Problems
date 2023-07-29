@@ -1,3 +1,5 @@
+// Java Program to print pattern
+// Square hollow pattern
 public class squarehollow{
     public static void printPattern(int n){
         int i,j;
