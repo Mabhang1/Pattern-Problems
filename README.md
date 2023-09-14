@@ -2,7 +2,7 @@
 ## 25 Pattern Problems in java from GeeksForGeeks
 <img src="PatternPrinting.jpg" width="1000" height="1050">
 
-### 1.Square Hollow Pattern
+### 1.[Square Hollow Pattern](squarehollow.java)
 ### 2.Number triangle Pattern
 ### 3.Number-increasing Pyramid Pattern
 ### 4.Number-increasing reverse Pyramid Pattern
