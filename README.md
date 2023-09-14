@@ -3,11 +3,11 @@
 <img src="PatternPrinting.jpg" width="1000" height="1050">
 
 ### 1.[Square Hollow Pattern](squarehollow.java)
-### 2.Number triangle Pattern
-### 3.Number-increasing Pyramid Pattern
-### 4.Number-increasing reverse Pyramid Pattern
-### 5.Number-changing Pyramid Pattern
-### 6.Zero-One triangle Pattern
+### 2.[Number triangle Pattern](numbertriangle.java)
+### 3.[Number-increasing Pyramid Pattern](numberpyramid.java)
+### 4.[Number-increasing reverse Pyramid Pattern](numberdecreasing.java)
+### 5.[Number-changing Pyramid Pattern](numberchanging.java)
+### 6.[Zero-One triangle Pattern](zeronetriangle.java)
 ### 7.Palindrome triangle Pattern
 ### 8.Rhombus Pattern
 ### 9.Diamond Star Pattern
